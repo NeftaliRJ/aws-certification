@@ -10,6 +10,4 @@ Aws-cloud-practicioner
 * Medium - [@neftali.ramosj](https://medium.com/@neftali.ramosj)
 * Linkedin - [Neftali Ramos](https://www.linkedin.com/in/%F0%9F%8C%8Cneftali-ramos-jimenez-03109518a)
 
-## License
 
-Nest is [MIT licensed](LICENSE).
