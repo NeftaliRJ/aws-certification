@@ -95,3 +95,19 @@ IAM Access Advisor
 -   Utilizar claves de acceso para el accesso programatico
 -   Revisar los permisos de tu cuenta con el informe de credenciales de IAM
 -   No compartir nunca los usuarios de IAM ni las claves de acceso
+
+## Modelo de responsabilidad compartida para IAM
+
+AWS
+
+-   Infraestructura (seguridad de la red global)
+-   Analisis de configuracion y vulnerabilidad
+-   Validacion de la conformidad
+
+Persona
+
+-   Gestion y supervision de usuarios, grupos, roles y politicas
+-   Habilitar MFA en todas las cuentas
+-   Rota todas tus claves con frecuenta
+-   Utiliza las herramientas IAM para aplicar los permisos adecuados
+-   Analiza los patrones de acceso y revisa los permisos
